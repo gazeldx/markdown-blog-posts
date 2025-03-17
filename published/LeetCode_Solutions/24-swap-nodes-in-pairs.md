@@ -48,7 +48,7 @@ Before solving this problem, it is recommended to solve the simple problem [206.
 
 ## Steps
 
-1. Traverse all nodes.
+1. Traverse all  nodes.
 
     ```java
     var previous = null;
