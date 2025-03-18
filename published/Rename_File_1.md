@@ -13,7 +13,7 @@ If the `permalink` value is empty, `/`, or invalid, we will automatically genera
 For example, if the title is `This is an Example Post`, the corresponding permalink will be `this-is-an-example-post`.
 Spaces are replaced with `-`, illegal characters will be deleted, and all lowercase letters are used.
 
-Next time you modify the `title`, the value of `permalink` will also change accordingly.
+Next time you modify the `title`, the value of `permalink` will also change accordingly. 
 
 ### You can modify the 'permalink' at any time without worrying about SEO weight of the post being reduced.
 

@@ -34,6 +34,7 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
 
 **Output**: `[2,1,3]`
 
+
 ### [Constraints]
 
 - The number of nodes in the list is in the range `[0, 100]`.
